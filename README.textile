@@ -1,6 +1,6 @@
 h2. PRITLOG LIGHT
 
-The idea of this blog, is directly taken from a very simple yet powerful blog software called PPLOG (Perl Powered Blog). PPLOG is a creation of Federico Ramírez (fedekun) - fedekiller@gmail.com. I just wanted to experiment with creating a similar blog in PHP. Hence PRITLOG.		   
+The idea of this blog, is directly taken from a very simple yet powerful blog software called PPLOG (Perl Powered Blog). PPLOG is a creation of Federico R (fedekun) - fedekiller@gmail.com. I just wanted to experiment with creating a similar blog in PHP. Hence PRITLOG.		   
 
 *PRITLOG now uses the MIT License.*
 "MIT License":http://www.opensource.org/licenses/mit-license.php             
